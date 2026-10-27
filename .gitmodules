@@ -1,0 +1,6 @@
+[submodule "stm32"]
+	path = stm32
+	url = https://github.com/malcevandrew/stm32-can-stepper-controller
+[submodule "esp32"]
+	path = esp32
+	url = https://github.com/malcevandrew/esp32-can-web-interface
