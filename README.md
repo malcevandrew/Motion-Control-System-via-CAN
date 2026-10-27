@@ -178,7 +178,7 @@ flowchart LR
 - `Core/Src/main.c` — инициализация периферии и основной цикл.
 - `Core/Src/tim.c` и `Core/Src/gpio.c` — конфигурация таймеров и GPIO.
 
-Стек: C, STM32F103C8T6, STMCubeMX, VS Code, CMake, arm-none-eabi-gcc, Ninja, OpenOCD, Cortex-Debug
+Стек: C, STM32F103C8T6, STM32CubeMX, VS Code, CMake, arm-none-eabi-gcc, Ninja, OpenOCD, Cortex-Debug
 
 <br>
 
